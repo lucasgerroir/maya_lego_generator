@@ -1,4 +1,4 @@
-Python Maya lego peice generator
+Python Maya lego piece generator
 
 This Python script will produce various types of lego
 pieces. The pieces have accurate dimensions according to the official lego pieces. This script adds a  
